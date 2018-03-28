@@ -1,3 +1,6 @@
+> - [kobito-oss のソースの読み方](https://qiita.com/mizchi/items/8b676d598325cedaa3f2)
+> - [Kobito OSSからの投稿をしてみます。](https://qiita.com/akiko-pusu/items/acba02e0bff6bff9e31f)
+
 # Kobito
 
 Cross Platform Markdown Processor built on Electron based on Kobito for Windows.
